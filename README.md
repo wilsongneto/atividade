@@ -1,5 +1,6 @@
 # ATIVIDADE
-- Pesquisar na internet por "APIs públicas gratuitas" ou "fun public APIs". Existem muitas listas (ex: Public APIs no GitHub).
+- Pesquisar na internet por "APIs públicas gratuitas" ou "fun public APIs". Existem muitas listas (ex: Public APIs no GitHub). https://github.com/public-apis/public-apis
+
 - Escolher 2-3 APIs que pareçam interessantes (ex: API de piadas, API de cotação de moedas, API de informações sobre filmes, API de fotos de gatos/cachorros, API do GitHub para dados públicos).
 # Para cada API escolhida:
 Acessar a documentação da API.
